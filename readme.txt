@@ -1,4 +1,5 @@
 Git has a mutable index called stage.
+Git tracks changes.
 
 12345
 12345
